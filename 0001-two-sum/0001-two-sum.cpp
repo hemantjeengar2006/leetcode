@@ -9,9 +9,8 @@ public:
                     continue;
                 }
                 if ( nums[i] + nums[j] == target ) {
-                    n=i;
-                    m=j;
-                    break;
+                    return {i,j};
+
                 }
             }
         }
