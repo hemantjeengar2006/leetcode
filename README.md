@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hemantjeengar2006/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0136-single-number](https://github.com/hemantjeengar2006/leetcode/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/hemantjeengar2006/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/hemantjeengar2006/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/hemantjeengar2006/leetcode/tree/main/0182-duplicate-emails/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/hemantjeengar2006/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
