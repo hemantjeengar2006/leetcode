@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hemantjeengar2006/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/hemantjeengar2006/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/hemantjeengar2006/leetcode/tree/main/0015-3sum/) | Medium |
 | [0136-single-number](https://github.com/hemantjeengar2006/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/hemantjeengar2006/leetcode/tree/main/0137-single-number-ii/) | Medium |
 ## Hash Table
@@ -47,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/hemantjeengar2006/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/hemantjeengar2006/leetcode/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/hemantjeengar2006/leetcode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
